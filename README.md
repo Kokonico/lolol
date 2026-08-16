@@ -382,7 +382,7 @@ Enterprise customers may additionally consider closing Vim without saving.
 Clone the distributed source ecosystem:
 
 ```bash
-git clone https://github.com/RobertFlexx/lolol.git
+git clone https://github.com/Kokonico/lolol.git
 cd lolol
 ```
 
@@ -395,7 +395,7 @@ You have successfully deployed lolol.
 ## Method 2 — Containerless Deployment
 
 ```bash
-curl -O https://raw.githubusercontent.com/RobertFlexx/lolol/main/hello.txt
+curl -O https://raw.githubusercontent.com/Kokonico/lolol/main/hello.txt
 ```
 
 You are now operating a production-grade hello node.
